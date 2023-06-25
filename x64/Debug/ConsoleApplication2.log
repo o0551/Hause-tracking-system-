@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\omar naseem\Desktop\path\house tracking system\ConsoleApplication2.cpp(183,13): warning C4101: 'out': unreferenced local variable
+C:\Users\omar naseem\Desktop\path\house tracking system\ConsoleApplication2.cpp(183,9): warning C4101: 'in': unreferenced local variable
+C:\Users\omar naseem\Desktop\path\house tracking system\ConsoleApplication2.cpp(236,35): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\omar naseem\Desktop\path\house tracking system\ConsoleApplication2.cpp(241,44): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\omar naseem\Desktop\path\house tracking system\x64\Debug\ConsoleApplication2.exe
